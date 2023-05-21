@@ -1,5 +1,6 @@
 ## stable-diffusion-webui-images-browser
 
+Original resp https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
 A custom extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
 This is an image browser for browsing past generated pictures, view their generated informations, send that information to txt2img, img2img and others, collect images to your "favorites" folder and delete the images you no longer need.
